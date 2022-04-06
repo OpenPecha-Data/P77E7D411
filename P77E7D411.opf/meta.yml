@@ -1,0 +1,28 @@
+id: P77E7D411
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13362
+  instance_id: http://purl.bdrc.io/resource/IE3JT13362
+  collection_id: http://purl.bdrc.io/resource/PR0ET004
+  language_id: None
+  title:
+    bo:
+    - ཚད་མའི་སྐོར།
+  alt_title:
+    bo:
+    - ཚད་མའི་སྐོར་ཕྱོགས་བསྒྲིགས།
+  author: None
+  publisher: GuruLamaWorks
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    c406a66c1e744e81a5fa77e51130d3ac:
+      title: ༄༅།་།སྡེ་བདུན་མདོ་དང་བཅས་པའི་དགོངས་པ་ཕྱིན་ཅི་མ་ལོག་པར་འགྲེལ་པ་ཚད་མ་རིགས་པའི་གཏེར་གྱི་དོན་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བ་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT3JT13362_001_0021.txt
+      reference: http://purl.bdrc.io/resource/VL460D4FEA2156216E
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-31T08:18:00.382681'
+last_modified_at: '2021-12-31T08:18:00.382688'
